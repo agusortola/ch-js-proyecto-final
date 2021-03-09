@@ -1,0 +1,86 @@
+[
+    {
+        "name": "The Course", 
+        "price": 750, 
+        "stock": 9999,
+        "cat": "postre", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Big Whoop", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "tabaquil", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Tribecangu", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "tabaquil", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Lechucks", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "tabaquil", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Murrays", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "postre", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Monkey", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "postre", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Guybrush", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "frutal", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Meleemon", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "frutal", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Red Parrot", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "frutal", 
+        "img":"img/flask.png"
+    },  
+    {
+        "name": "LeChimp", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "postre", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "LemonHead", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "frutal", 
+        "img":"img/flask.png"
+    },
+    {
+        "name": "Secret", 
+        "price": 750, 
+        "stock": 9999, 
+        "cat": "tabaquil", 
+        "img":"img/flask.png"
+    }
+]
